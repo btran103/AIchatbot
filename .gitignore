@@ -1,0 +1,14 @@
+# Frontend
+aiquestions-frontend/node_modules/
+aiquestions-frontend/dist/
+aiquestions-frontend/.env
+
+# Backend
+AIQuestions.API/bin/
+AIQuestions.API/obj/
+AIQuestions.API/appsettings.Development.json
+
+# IDE
+.vs/
+.vscode/
+*.user

@@ -1,0 +1,4 @@
+cd C:\AIQuestions\aiquestions-frontend
+>> npm run dev
+cd C:\AIQuestions\AIQuestions.API
+dotnet run
