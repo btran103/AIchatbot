@@ -191,5 +191,5 @@ AIQuestions/
 
 ## 👤 Tác giả
 
-- **Bảo Trần** - [GitHub Profile](https://github.com/btran103)
+- **Bảo Trân** - [GitHub Profile](https://github.com/btran103)
 - Repository: [AIchatbot](https://github.com/btran103/AIchatbot)
